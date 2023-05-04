@@ -19,11 +19,11 @@ void calc() {
     std::string sym;
     float b;
 
-    std::cout << "Elso szam: ";
+    std::cout << "First number: ";
     std::cin >> a;
-    std::cout << "Muveleti jel (+; -; *; /): ";
+    std::cout << "Operation symbol (+; -; *; /): ";
     std::cin >> sym;
-    std::cout << "Masodik szam: ";
+    std::cout << "Second number: ";
     std::cin >> b;
     std::cout << "--------------------------------\n";
     
